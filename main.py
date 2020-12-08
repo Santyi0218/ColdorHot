@@ -1,5 +1,4 @@
 import os
-import ujson
 import esp32
 import _thread
 import utime as tm
